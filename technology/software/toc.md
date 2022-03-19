@@ -2,3 +2,5 @@
 
 ### Operating Systems
 - [macOS](/database/technology/software/macos)  
+- [Windows](/database/technology/software/windows)
+- [Linux](/database/technology/software/linux)

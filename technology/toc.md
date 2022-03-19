@@ -1,5 +1,6 @@
 ## [Database Knowledge](/database) / [Department of Technology](/database/technology/toc) / Table of Contents
 Here, you'll find the table of contents of the entire department of technology.
+### [Networking](/database/technology/networking/toc)
 
 ### Computers
 - [Software (Operating Systems, Software, etc...)](/database/technology/software/toc)
